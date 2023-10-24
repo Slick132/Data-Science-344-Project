@@ -1,0 +1,3 @@
+Since GitHub only allows file sizes of 25mb and our data is 564mb, we broke the csv up into smaller chuncks called part1-7.
+
+run the "Put Chunks back together into one csv.py" to put the subsets back into 1 csv, also remember to change directory paths
